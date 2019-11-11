@@ -1,4 +1,4 @@
-10 CÂU LỆNH GIT THÔNG DỤNG
+.10 CÂU LỆNH GIT THÔNG DỤNG
 1. Config:
 -Sử dụng để config username, email
 -Các tùy chọn: --global, --system, --local
